@@ -20,6 +20,6 @@ use SQL.
 
 The data set contains the following three tables, which you may refer to in the relationship diagram below to understand the
 connection:
-● sales
-● members
-● menu
+1. sales
+2. members
+3. menu
