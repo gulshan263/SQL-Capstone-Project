@@ -1,5 +1,5 @@
 # SQL-Capstone-Project
-Case Study of Indian Restaurant
+Case Study of  Restaurant
 
 Introduction to Case
 
