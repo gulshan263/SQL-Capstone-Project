@@ -9,9 +9,9 @@ foods: sushi, curry, and ramen.
 operation but has no idea how to use it to help them operate the business.
 
 Ginny wants to use the data to answer a few simple questions about his customers, especially about their:
-● visiting patterns,
-● how much money they’ve spent, and
-● which menu items are their favorite.
+1. visiting patterns,
+2. how much money they’ve spent, and
+3. which menu items are their favorite.
 This deeper connection with her customers will help her deliver a better and more personalized experience for her loyal
 customers.
 She plans on using these insights to help him decide whether she should expand the existing customer loyalty program.
