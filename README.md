@@ -12,6 +12,7 @@ Ginny wants to use the data to answer a few simple questions about his customers
 1. visiting patterns,
 2. how much money they’ve spent, and
 3. which menu items are their favorite.
+
 This deeper connection with her customers will help her deliver a better and more personalized experience for her loyal
 customers.
 She plans on using these insights to help him decide whether she should expand the existing customer loyalty program.
