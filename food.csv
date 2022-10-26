@@ -1,0 +1,35 @@
+food_id,food_name,type
+1,sushi,Non-veg
+2,curry,Veg
+3,ramen,Veg
+4,Miso Soup.,Non-veg
+5,Yakitori,Non-veg
+6,Takoyaki,Veg
+7,Soba,Veg
+8,Sukiyaki,Veg
+9,Sashimi,Veg
+10,Unagi,Veg
+11,Onigiri,Veg
+12,Tofu,Veg
+13,Butter Chiken ,Non-veg
+14,Wagashi,Veg
+15,Natto,Non-veg
+16,Oden,Non-veg
+17,Shabu Shabu,Veg
+18,Tempura,Veg
+19,Ramen,Veg
+20,Tonkatsu,Veg
+21,Kaiseki,Veg
+22,Kappo Ryori,Veg
+23,Shojin Ryori,Non-veg
+24,Oyakodon,Veg
+25,Gyudon,Veg
+26,Robatayak,Veg
+27,Shirasu / Shirasudon ,Veg
+28,Somen,Veg
+29,Imagawayaki ,Veg
+30,Yatsuhashi,Veg
+31,hvvs,Veg
+32,Olan (dish),Veg
+33,Hiyashi chuka ,Veg
+34,Gyutan,Veg
